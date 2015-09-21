@@ -1,0 +1,12 @@
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\bin\Debug\GetAJWTwithPortalAuth.exe.config
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\bin\Debug\GetAJWTwithPortalAuth.exe
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\bin\Debug\GetAJWTwithPortalAuth.pdb
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\obj\Debug\GetAJWTwithPortalAuth.csprojResolveAssemblyReference.cache
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\obj\Debug\GetAJWTwithPortalAuth.exe
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\obj\Debug\GetAJWTwithPortalAuth.pdb
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\Sample-GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\bin\Debug\GetAJWTwithPortalAuth.exe.config
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\Sample-GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\obj\Debug\GetAJWTwithPortalAuth.exe
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\Sample-GetAJWTwithPortalAuth\GetAJWTwithPortalAuth\obj\Debug\GetAJWTwithPortalAuth.pdb

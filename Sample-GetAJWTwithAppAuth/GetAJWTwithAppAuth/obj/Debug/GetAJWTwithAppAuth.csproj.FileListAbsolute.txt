@@ -1,0 +1,12 @@
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\bin\Debug\GetAJWTwithAppAuth.exe.config
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\bin\Debug\GetAJWTwithAppAuth.exe
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\bin\Debug\GetAJWTwithAppAuth.pdb
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\obj\Debug\GetAJWTwithAppAuth.csprojResolveAssemblyReference.cache
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\obj\Debug\GetAJWTwithAppAuth.exe
+c:\users\shzhai.fareast\documents\visual studio 2015\Projects\GetAJWTwithAppAuth\GetAJWTwithAppAuth\obj\Debug\GetAJWTwithAppAuth.pdb
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\Sample-GetAJWTwithAppAuth\GetAJWTwithAppAuth\bin\Debug\GetAJWTwithAppAuth.exe.config
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\Sample-GetAJWTwithAppAuth\GetAJWTwithAppAuth\obj\Debug\GetAJWTwithAppAuth.exe
+C:\Users\shzhai.FAREAST\Documents\Visual Studio 2015\Projects\Sample-GetAJWTwithAppAuth\GetAJWTwithAppAuth\obj\Debug\GetAJWTwithAppAuth.pdb
